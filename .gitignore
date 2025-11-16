@@ -1,0 +1,99 @@
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+.directory
+.fuse_hidden*
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Node.js and npm
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+.nuxt/
+.cache/
+.parcel-cache/
+
+# .NET and C#
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+.vs/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+*.dll
+*.exe
+*.pdb
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.key
+*.pem
+secrets.json
+appsettings.Development.json
+credentials.json
+
+# Logs
+logs/
+*.log
+log/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Coverage and test results
+coverage/
+*.cover
+.nyc_output/
+test-results/
+TestResults/
+
+# Backup files
+*.bak
+*.backup
+*.old
